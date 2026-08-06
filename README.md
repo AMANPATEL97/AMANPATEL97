@@ -24,7 +24,7 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/AMANPATEL97
-- Email: your-email@example.com
+- Email: amanpatel97529@gmail.com
 
 ---
 ⭐ Thanks for visiting my profile!
