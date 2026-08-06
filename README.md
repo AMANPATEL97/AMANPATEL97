@@ -1,16 +1,30 @@
-## Hi there 👋
-Aman patel
-<!--
-**AMANPATEL97/AMANPATEL97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Aman Patel
 
-Here are some ideas to get you started:
+## 💫 About Me
+- 💻 Full Stack Developer
+- 🌱 Learning Angular, Spring Boot, Java
+- 🚀 Interested in Web Development
+- 📍 India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Java
+- Spring Boot
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+- Git
+
+## 📂 Projects
+- Employee Management System
+- E-Commerce Application
+- Student Management System
+
+## 📫 Contact
+- GitHub: https://github.com/AMANPATEL97
+- Email: your-email@example.com
+
+---
+⭐ Thanks for visiting my profile!
